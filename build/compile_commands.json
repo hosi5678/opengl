@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/user/opengl/build",
+  "command": "/usr/bin/gcc-11 -I/home/user/opengl/opengl_sub_dir/./include -g -Wall -Wextra -O2 -std=gnu99 -pipe -march=native -funroll-loops -fforce-addr -msse -msse2 -msse3 -m3dnow -mfpmath=sse -fopenmp -o CMakeFiles/main.dir/main.c.o -c /home/user/opengl/main.c",
+  "file": "/home/user/opengl/main.c",
+  "output": "CMakeFiles/main.dir/main.c.o"
+},
+{
+  "directory": "/home/user/opengl/build",
+  "command": "/usr/bin/gcc-11 -g -o opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/cube.c.o -c /home/user/opengl/opengl_sub_dir/src/cube.c",
+  "file": "/home/user/opengl/opengl_sub_dir/src/cube.c",
+  "output": "opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/cube.c.o"
+},
+{
+  "directory": "/home/user/opengl/build",
+  "command": "/usr/bin/gcc-11 -g -o opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/display.c.o -c /home/user/opengl/opengl_sub_dir/src/display.c",
+  "file": "/home/user/opengl/opengl_sub_dir/src/display.c",
+  "output": "opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/display.c.o"
+},
+{
+  "directory": "/home/user/opengl/build",
+  "command": "/usr/bin/gcc-11 -g -o opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/global.c.o -c /home/user/opengl/opengl_sub_dir/src/global.c",
+  "file": "/home/user/opengl/opengl_sub_dir/src/global.c",
+  "output": "opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/global.c.o"
+},
+{
+  "directory": "/home/user/opengl/build",
+  "command": "/usr/bin/gcc-11 -g -o opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/idle.c.o -c /home/user/opengl/opengl_sub_dir/src/idle.c",
+  "file": "/home/user/opengl/opengl_sub_dir/src/idle.c",
+  "output": "opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/idle.c.o"
+},
+{
+  "directory": "/home/user/opengl/build",
+  "command": "/usr/bin/gcc-11 -g -o opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/init.c.o -c /home/user/opengl/opengl_sub_dir/src/init.c",
+  "file": "/home/user/opengl/opengl_sub_dir/src/init.c",
+  "output": "opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/init.c.o"
+},
+{
+  "directory": "/home/user/opengl/build",
+  "command": "/usr/bin/gcc-11 -g -o opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/keyboard.c.o -c /home/user/opengl/opengl_sub_dir/src/keyboard.c",
+  "file": "/home/user/opengl/opengl_sub_dir/src/keyboard.c",
+  "output": "opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/keyboard.c.o"
+},
+{
+  "directory": "/home/user/opengl/build",
+  "command": "/usr/bin/gcc-11 -g -o opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/motion.c.o -c /home/user/opengl/opengl_sub_dir/src/motion.c",
+  "file": "/home/user/opengl/opengl_sub_dir/src/motion.c",
+  "output": "opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/motion.c.o"
+},
+{
+  "directory": "/home/user/opengl/build",
+  "command": "/usr/bin/gcc-11 -g -o opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/mouse.c.o -c /home/user/opengl/opengl_sub_dir/src/mouse.c",
+  "file": "/home/user/opengl/opengl_sub_dir/src/mouse.c",
+  "output": "opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/mouse.c.o"
+},
+{
+  "directory": "/home/user/opengl/build",
+  "command": "/usr/bin/gcc-11 -g -o opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/resize.c.o -c /home/user/opengl/opengl_sub_dir/src/resize.c",
+  "file": "/home/user/opengl/opengl_sub_dir/src/resize.c",
+  "output": "opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/resize.c.o"
+}
+]

@@ -1,0 +1,6 @@
+#ifndef A9236323_13D1_4832_994A_42E37FFD23DE
+#define A9236323_13D1_4832_994A_42E37FFD23DE
+
+void keyboard(unsigned char key,int x, int y);
+
+#endif /* A9236323_13D1_4832_994A_42E37FFD23DE */

@@ -1,0 +1,13 @@
+# ninja log v5
+2	43	1708731790438713263	opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/mouse.c.o	101edd768e4b133a
+2	41	1708731790438713263	opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/motion.c.o	391b54c3eab0db56
+43	51	1708731790446712968	opengl_sub_dir/libopengl_sub_dir.a	cbd64f371e68bb10
+2	42	1708731790438713263	opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/resize.c.o	c64957732435f385
+2	41	1708731790438713263	opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/keyboard.c.o	aa601ad36f0dfd07
+51	81	1708731790478711786	main	741562053c116345
+2	36	1708731790434713411	opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/init.c.o	efe9b1eae10a0c32
+1	28	1708731790426713707	CMakeFiles/main.dir/main.c.o	5fc101ddf08cc77a
+1	27	1708731790422713854	opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/display.c.o	d85095a7a605cf18
+1	27	1708731790422713854	opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/idle.c.o	e0ae6be4b2b6325a
+1	27	1708731790422713854	opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/cube.c.o	bd688bd6914d3046
+1	25	1708731790422713854	opengl_sub_dir/CMakeFiles/opengl_sub_dir.dir/src/global.c.o	e804602d76d7cf87

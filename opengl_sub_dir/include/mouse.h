@@ -1,0 +1,6 @@
+#ifndef A7CCC963_2722_421D_8B23_0931E396C811
+#define A7CCC963_2722_421D_8B23_0931E396C811
+
+void mouse(int button, int state, int x, int y);
+
+#endif /* A7CCC963_2722_421D_8B23_0931E396C811 */
